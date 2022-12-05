@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;500;700;900&display=swap");
+
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-lato: Lato;
+
+  /* font sizes */
+  --font-size-5xs: 10px;
+  --font-size-4xs: 12px;
+  --font-size-3xs: 14px;
+  --font-size-2xs: 15px;
+  --font-size-xs: 16px;
+  --font-size-sm: 18px;
+  --font-size-base: 20px;
+  --font-size-lg: 30px;
+  --font-size-xl: 50px;
+  --font-size-2xl: 70px;
+  --font-size-3xl: 80px;
+
+  /* Colors */
+  --white: #fff;
+  --color-black: #000;
+  --color-gold-100: #ffd500;
+  --color-gold-200: #f3cb00;
+  --color-gray-100: #f5f8fb;
+  --color-gray-200: #f5f5f5;
+  --color-gray-300: #f2f2f2;
+  --color-gray-400: #eaeaea;
+  --color-gray-500: #dee2e6;
+  --color-gray-600: #d9d9d9;
+  --color-gray-700: #d8d8d8;
+  --color-gray-800: #d5d7d9;
+  --color-gray-900: #ccc;
+  --color-gray-1000: #cacaca;
+  --color-gray-1100: #cac8c8;
+  --color-gray-1200: #c6c6c6;
+  --color-gray-1300: #b6b6b7;
+  --color-gray-1400: #aca9a9;
+  --color-gray-1500: #9e9e9e;
+  --color-gray-1600: #989898;
+  --color-gray-1700: #928e8e;
+  --color-gray-1800: #73818c;
+  --color-gray-1900: #6f6c70;
+  --color-gray-2000: #646464;
+  --color-gray-2100: #374b5c;
+  --color-gray-2200: #1c1541;
+  --color-gray-2300: #030e2f;
+  --color-gray-2400: #000004;
+  --color-indigo-100: #007bff;
+  --color-indigo-200: #7926a0;
+  --color-indigo-300: #272783;
+  --color-indigo-400: #261d54;
+  --color-teal-100: #17a2b8;
+  --color-teal-200: #0a6c7b;
+  --color-beige: #c0c0c0;
+
+  /* border radiuses */
+  --br-sm: 5px;
+  --br-md: 10px;
+  --br-lg: 20px;
+}

@@ -1,0 +1,742 @@
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 308.22px;
+  height: 271.32px;
+}
+.heartIcon1,
+.rectangleIcon1 {
+  position: absolute;
+  top: 6.51px;
+  left: 7.24px;
+  width: 293.75px;
+  height: 164.96px;
+  object-fit: cover;
+}
+.heartIcon1 {
+  top: 4.34px;
+  left: 259.74px;
+  width: 41.96px;
+  height: 41.96px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gold-200);
+  width: 65.84px;
+  height: 20.26px;
+}
+.featuredDiv {
+  position: absolute;
+  top: 3px;
+  left: 9px;
+  display: inline-block;
+  width: 47px;
+  height: 16px;
+}
+.featureDiv {
+  position: absolute;
+  top: 6.06px;
+  left: 7.22px;
+  width: 65.84px;
+  height: 20.26px;
+}
+.div,
+.featuredDiv1 {
+  position: absolute;
+  top: 289.41px;
+  left: 631.17px;
+  width: 308.22px;
+  height: 271.32px;
+}
+.featuredDiv1 {
+  top: 3px;
+  left: 10px;
+  display: inline-block;
+  width: 47px;
+  height: 16px;
+}
+.div1,
+.featureDiv1 {
+  position: absolute;
+  top: 6.06px;
+  left: 7.08px;
+  width: 65.84px;
+  height: 20.26px;
+}
+.div1 {
+  top: 289.41px;
+  left: 316.31px;
+  width: 308.22px;
+  height: 271.32px;
+}
+.div2,
+.featureDiv2 {
+  position: absolute;
+  top: 6.06px;
+  left: 7.38px;
+  width: 65.84px;
+  height: 20.26px;
+}
+.div2 {
+  top: 289.41px;
+  left: 0;
+  width: 308.22px;
+  height: 271.32px;
+}
+.b,
+.mPNagarZone2Bhopal,
+.nov22Div,
+.volvoCarsDiv {
+  position: absolute;
+  top: 63.67px;
+  left: 249.61px;
+  display: inline-block;
+  width: 32.56px;
+  height: 12.3px;
+}
+.b,
+.mPNagarZone2Bhopal,
+.volvoCarsDiv {
+  left: 0;
+  width: 114.32px;
+}
+.b,
+.volvoCarsDiv {
+  top: 28.94px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-1500);
+  width: 78.14px;
+  height: 20.98px;
+}
+.b {
+  top: 0;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-2100);
+  width: 122.27px;
+  height: 26.05px;
+}
+.featuredDiv3,
+.priceAndAddressDate {
+  position: absolute;
+  top: 185.22px;
+  left: 18.09px;
+  width: 282.17px;
+  height: 75.97px;
+}
+.featuredDiv3 {
+  top: 2px;
+  left: 9px;
+  display: inline-block;
+  width: 47px;
+  height: 16px;
+}
+.div3,
+.featureDiv3 {
+  position: absolute;
+  top: 6.47px;
+  left: 7.22px;
+  width: 65.84px;
+  height: 20.26px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+}
+.div3 {
+  top: 0;
+  left: 631.17px;
+  width: 308.22px;
+  height: 271.32px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-gray-1400);
+}
+.b1,
+.hondaActiva6G,
+.mPNagarZone2Bhopal1,
+.nov22Div1 {
+  position: absolute;
+  top: 63.67px;
+  left: 249.62px;
+  display: inline-block;
+  width: 32.56px;
+  height: 12.3px;
+}
+.b1,
+.hondaActiva6G,
+.mPNagarZone2Bhopal1 {
+  left: 0.01px;
+  width: 114.32px;
+}
+.b1,
+.hondaActiva6G {
+  top: 29.25px;
+  left: 0;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-1500);
+  width: 109px;
+  height: 21px;
+}
+.b1 {
+  top: 0;
+  left: 0.01px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-2100);
+  width: 104.19px;
+  height: 26.05px;
+}
+.featuredDiv4,
+.priceAndAddressDate1 {
+  position: absolute;
+  top: 185.22px;
+  left: 18.08px;
+  width: 282.18px;
+  height: 75.97px;
+}
+.featuredDiv4 {
+  top: 2px;
+  left: 10px;
+  display: inline-block;
+  width: 47px;
+  height: 16px;
+}
+.featureDiv4 {
+  top: 6.47px;
+  left: 7.08px;
+  width: 65.84px;
+  height: 20.26px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+}
+.div4,
+.featureDiv4,
+.groupDiv {
+  position: absolute;
+}
+.div4 {
+  top: 0;
+  left: 316.31px;
+  width: 308.22px;
+  height: 271.32px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-gray-1400);
+}
+.groupDiv {
+  top: 41.53px;
+  left: 0;
+  width: 939.38px;
+  height: 560.73px;
+}
+.greyArrowUp2Icon {
+  position: absolute;
+  top: 6.63px;
+  left: 898.36px;
+  width: 13.02px;
+  height: 7.96px;
+  object-fit: cover;
+}
+.adsInIndia,
+.sortByDatePublished {
+  position: absolute;
+  top: 0;
+  left: 695px;
+  display: inline-block;
+  width: 173px;
+  height: 18px;
+}
+.adsInIndia {
+  top: 7px;
+  left: 0;
+  width: 136px;
+  height: 17px;
+}
+.groupDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0.38px;
+  width: 911.38px;
+  height: 24px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-900);
+}
+.rectangleDiv5,
+.rightSIdeDiv {
+  position: absolute;
+  top: 206px;
+  left: 393.62px;
+  width: 939.38px;
+  height: 602.26px;
+}
+.rectangleDiv5 {
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  box-shadow: 2px 6px 4px rgba(0, 0, 0, 0.25);
+  width: 378.4px;
+  height: 592.56px;
+}
+.rectangleDiv6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-gold-200);
+  border: 1px solid var(--color-gold-200);
+  box-sizing: border-box;
+  width: 68.01px;
+  height: 28.94px;
+}
+.applyB {
+  position: absolute;
+  top: 7.69px;
+  left: 17.49px;
+  font-size: var(--font-size-4xs);
+  display: inline-block;
+  font-family: var(--font-lato);
+  color: var(--color-black);
+  text-align: left;
+  width: 33px;
+  height: 13px;
+}
+.applyButton,
+.rectangleDiv7 {
+  position: absolute;
+  height: 28.94px;
+}
+.applyButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 131.31px;
+  left: 244.55px;
+  width: 68.01px;
+}
+.rectangleDiv7 {
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 80.31px;
+}
+.maxInput {
+  border: 0;
+  display: inline-block;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-4xs);
+  background-color: transparent;
+  position: absolute;
+  top: 7.69px;
+  left: 6.84px;
+  font-weight: 700;
+  color: var(--color-gray-1100);
+  text-align: left;
+  width: 66px;
+  height: 13px;
+}
+.maxDiv,
+.toB {
+  position: absolute;
+  top: 131.31px;
+  left: 138.19px;
+  width: 80.31px;
+  height: 28.94px;
+}
+.toB {
+  top: 139px;
+  left: 102.04px;
+  font-size: var(--font-size-4xs);
+  display: inline-block;
+  color: var(--color-gray-1100);
+  width: 14px;
+  height: 13px;
+}
+.rectangleDiv8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  border: 1px solid var(--color-gray-1100);
+  box-sizing: border-box;
+  width: 78.86px;
+  height: 28.94px;
+}
+.minInput {
+  border: 0;
+  display: inline-block;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-4xs);
+  background-color: transparent;
+  position: absolute;
+  top: 7.69px;
+  left: 5.87px;
+  font-weight: 700;
+  color: var(--color-gray-1100);
+  text-align: left;
+  width: 66px;
+  height: 13px;
+}
+.minDiv {
+  position: absolute;
+  top: 131.31px;
+  left: 2.17px;
+  width: 78.86px;
+  height: 28.94px;
+}
+.chooseARangeBelow {
+  position: absolute;
+  top: 91px;
+  left: 1.04px;
+  display: inline-block;
+  width: 139px;
+  height: 14px;
+}
+.iconUp {
+  position: absolute;
+  top: 57.51px;
+  left: 295.19px;
+  width: 15.92px;
+  height: 8.68px;
+  object-fit: cover;
+}
+.budget,
+.filtersB {
+  position: absolute;
+  display: inline-block;
+}
+.budget {
+  top: 49.55px;
+  left: 0;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-1900);
+  width: 58.6px;
+  height: 21.71px;
+}
+.filtersB {
+  top: 0;
+  left: 1.04px;
+  width: 39px;
+  height: 14px;
+}
+.budgetDiv,
+.lineDiv {
+  position: absolute;
+  top: 352px;
+  left: 41.96px;
+  width: 312.56px;
+  height: 160.25px;
+}
+.lineDiv {
+  top: 58.45px;
+  left: 1.67px;
+  border-top: 1px solid var(--color-gray-1900);
+  box-sizing: border-box;
+  width: 311.39px;
+  height: 1px;
+}
+.iconUp1 {
+  position: absolute;
+  top: 7.96px;
+  left: 295.2px;
+  width: 15.92px;
+  height: 8.68px;
+  object-fit: cover;
+}
+.locationsB {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 77.42px;
+  height: 21.71px;
+}
+.locationsDiv {
+  position: absolute;
+  top: 246.72px;
+  left: 41.96px;
+  width: 312.56px;
+  height: 58.95px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-1900);
+}
+.lineDiv1 {
+  position: absolute;
+  top: 97.79px;
+  left: 1.67px;
+  border-top: 1px solid var(--color-gray-1900);
+  box-sizing: border-box;
+  width: 311.39px;
+  height: 1px;
+}
+.allCategoriesB {
+  position: absolute;
+  top: 40.92px;
+  left: 36.04px;
+  display: inline-block;
+  width: 101px;
+  height: 13px;
+}
+.rectangleDiv9 {
+  position: absolute;
+  top: 51.37px;
+  left: 2.17px;
+  background-color: var(--color-black);
+  width: 17.36px;
+  height: 2.17px;
+}
+.iconUp2 {
+  position: absolute;
+  top: 6.51px;
+  left: 295.2px;
+  width: 15.92px;
+  height: 8.68px;
+  object-fit: cover;
+}
+.categoriesB {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  color: var(--color-gray-1900);
+  width: 86.1px;
+  height: 21.71px;
+}
+.categoriesDiv {
+  position: absolute;
+  top: 107.08px;
+  left: 41.96px;
+  width: 312.56px;
+  height: 98.29px;
+  font-size: var(--font-size-xs);
+}
+.homeB,
+.indiaFreeClassifieds {
+  position: absolute;
+  display: inline-block;
+}
+.indiaFreeClassifieds {
+  top: 57px;
+  left: 42px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-2100);
+  width: 283px;
+  height: 35px;
+}
+.homeB {
+  top: 38px;
+  left: 43px;
+  color: #b6b6b6;
+  width: 39px;
+  height: 14px;
+}
+.leftSideDiv {
+  position: absolute;
+  top: 114px;
+  left: 0;
+  width: 378.4px;
+  height: 592.56px;
+  font-size: var(--font-size-3xs);
+}
+.bGColorDiv,
+.rectangleDiv10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-2100);
+  width: 1366px;
+  height: 114px;
+}
+.rectangleDiv10 {
+  border-radius: var(--br-md);
+  background-color: var(--color-gold-200);
+  width: 96.87px;
+  height: 41.1px;
+}
+.sellB {
+  position: absolute;
+  top: 10.27px;
+  left: 32.29px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  font-family: var(--font-lato);
+  color: var(--color-black);
+  text-align: left;
+  width: 31.64px;
+  height: 21.28px;
+}
+.registerSignIn,
+.sellButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 759px;
+  width: 96.87px;
+  height: 41.1px;
+}
+.registerSignIn {
+  top: 12px;
+  left: 582px;
+  font-size: var(--font-size-sm);
+  font-weight: 700;
+  font-family: var(--font-lato);
+  color: var(--white);
+  text-align: left;
+  display: inline-block;
+  width: 137px;
+  height: 22px;
+}
+.userIcon {
+  position: absolute;
+  top: 16px;
+  left: 561px;
+  width: 13px;
+  height: 14.08px;
+  object-fit: cover;
+}
+.rectangleDiv11,
+.rectangleDiv12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--white);
+  width: 350px;
+  height: 41px;
+}
+.rectangleDiv12 {
+  border-radius: 0 var(--br-sm) var(--br-sm) 0;
+  background-color: var(--color-gold-200);
+  width: 43px;
+}
+.iconSearch {
+  position: absolute;
+  top: 11px;
+  left: 13px;
+  width: 21px;
+  height: 21px;
+  object-fit: cover;
+}
+.findMobilesBikesCarsLap,
+.searchGroupButton {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.searchGroupButton {
+  cursor: pointer;
+  padding: 0;
+  top: 0;
+  left: 307px;
+  width: 43px;
+  height: 41px;
+}
+.findMobilesBikesCarsLap {
+  display: inline-block;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-3xs);
+  top: 11px;
+  left: 17px;
+  font-weight: 700;
+  color: var(--color-gray-900);
+  text-align: left;
+  width: 279px;
+  height: 17px;
+}
+.findMobileetcDiv,
+.rectangleDiv13 {
+  position: absolute;
+  top: 1px;
+  left: 179px;
+  width: 350px;
+  height: 41px;
+}
+.rectangleDiv13 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--white);
+  width: 160px;
+}
+.iconDown {
+  position: absolute;
+  top: 19px;
+  left: 134px;
+  width: 15px;
+  height: 9px;
+  object-fit: cover;
+}
+.indiaInput {
+  border: 0;
+  display: inline-block;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-3xs);
+  background-color: transparent;
+  position: absolute;
+  top: 12px;
+  left: 46px;
+  font-weight: 700;
+  color: var(--color-gray-900);
+  text-align: left;
+  width: 75px;
+  height: 20px;
+}
+.searchWhitegrey1Icon {
+  position: absolute;
+  top: 10px;
+  left: 12px;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.searchCountryDiv {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 160px;
+  height: 41px;
+}
+.logoA,
+.navbarDiv {
+  position: absolute;
+  top: 37px;
+  left: 459px;
+  width: 855.87px;
+  height: 42px;
+}
+.logoA {
+  cursor: pointer;
+  text-decoration: none;
+  top: 21px;
+  left: 69px;
+  width: 190px;
+  height: 73px;
+  background-image: url(../../public/logo@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.headerNavbarAndLogo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1366px;
+  height: 114px;
+}
+.searchDiv {
+  position: relative;
+  background-color: var(--white);
+  box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 734px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+  font-family: var(--font-lato);
+}

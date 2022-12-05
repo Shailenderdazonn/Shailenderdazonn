@@ -1,0 +1,1159 @@
+.yellowBackgroundColorDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gold-100);
+  width: 1367px;
+  height: 319px;
+}
+.ellipseIcon,
+.fb1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+}
+.fb1Icon {
+  top: 3.67px;
+  left: 3.67px;
+  width: 12.33px;
+  height: 12.33px;
+  object-fit: cover;
+}
+.fBIconDiv,
+.instgram1Icon {
+  position: absolute;
+  top: 31px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+}
+.instgram1Icon {
+  top: 4px;
+  left: 4px;
+  width: 12px;
+  height: 12px;
+  object-fit: cover;
+}
+.instgramIconDiv,
+.linkednIconDiv,
+.twitter1Icon {
+  position: absolute;
+  top: 31px;
+  left: 25.67px;
+  width: 20px;
+  height: 20px;
+}
+.linkednIconDiv,
+.twitter1Icon {
+  left: 51.33px;
+}
+.twitter1Icon {
+  top: 3.33px;
+  left: 3.33px;
+  width: 13.33px;
+  height: 13.33px;
+  object-fit: cover;
+}
+.twitterIconDiv {
+  position: absolute;
+  top: 31px;
+  left: 77px;
+  width: 20px;
+  height: 20px;
+}
+.followUsDiv,
+.howToSellFast {
+  position: absolute;
+  width: 132px;
+}
+.howToSellFast {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  height: 34px;
+}
+.followUsDiv {
+  top: 60px;
+  left: 1076px;
+  height: 51px;
+  font-size: var(--font-size-base);
+}
+.howToSellFast1,
+.howToSellFast3 {
+  position: absolute;
+  top: 34px;
+  left: 0;
+  display: inline-block;
+  width: 174px;
+  height: 95px;
+}
+.howToSellFast3 {
+  top: 0;
+  font-size: var(--font-size-base);
+  width: 142px;
+  height: 34px;
+}
+.howToSellFast2 {
+  position: absolute;
+  top: 137px;
+  left: 1076px;
+  width: 174px;
+  height: 129px;
+}
+.contactUsB,
+.fAQB {
+  position: absolute;
+  top: 103px;
+  left: 0;
+  display: inline-block;
+  width: 74px;
+  height: 26px;
+}
+.fAQB {
+  top: 80px;
+  width: 32px;
+}
+.membership {
+  top: 57px;
+  width: 85px;
+  height: 26px;
+}
+.howToSellFast5,
+.howToSellFast6,
+.membership {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.howToSellFast5 {
+  cursor: pointer;
+  text-decoration: none;
+  top: 34px;
+  font-weight: 700;
+  color: inherit;
+  width: 43px;
+  height: 26px;
+}
+.howToSellFast6 {
+  top: 0;
+  font-size: var(--font-size-base);
+  width: 141px;
+  height: 34px;
+}
+.howToSellFast4 {
+  position: absolute;
+  top: 137px;
+  left: 739px;
+  width: 141px;
+  height: 129px;
+}
+.aboutUs,
+.categoryB,
+.helpSupportB,
+.homeA {
+  position: absolute;
+  top: 103px;
+  left: 0;
+  display: inline-block;
+  width: 92px;
+  height: 26px;
+}
+.aboutUs,
+.categoryB,
+.homeA {
+  top: 80px;
+  width: 63px;
+}
+.categoryB,
+.homeA {
+  top: 57px;
+}
+.homeA {
+  cursor: pointer;
+  text-decoration: none;
+  top: 34px;
+  font-weight: 700;
+  color: inherit;
+  width: 41px;
+}
+.quickLinksB,
+.quickLinksDiv {
+  position: absolute;
+  width: 105px;
+}
+.quickLinksB {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  height: 34px;
+}
+.quickLinksDiv {
+  top: 137px;
+  left: 437px;
+  height: 129px;
+}
+.aboutClassified,
+.classifiedBlog,
+.contactUsB1,
+.tipsAndHelp {
+  position: absolute;
+  top: 103px;
+  left: 0;
+  display: inline-block;
+  width: 75px;
+  height: 26px;
+}
+.aboutClassified,
+.classifiedBlog,
+.tipsAndHelp {
+  top: 57px;
+  width: 98px;
+}
+.aboutClassified,
+.tipsAndHelp {
+  top: 34px;
+  width: 110px;
+}
+.tipsAndHelp {
+  top: 0;
+  font-size: var(--font-size-base);
+  width: 121px;
+  height: 34px;
+}
+.footerLogoIcon,
+.tipsHelpLists {
+  position: absolute;
+  top: 137px;
+  left: 117px;
+  width: 121px;
+  height: 129px;
+}
+.footerLogoIcon {
+  top: 54px;
+  width: 164px;
+  height: 64px;
+  object-fit: cover;
+}
+.footerDiv {
+  position: absolute;
+  top: 1685px;
+  left: -1px;
+  width: 1367px;
+  height: 319px;
+  font-size: var(--font-size-2xs);
+}
+.rectangleDiv,
+.rectangleDiv1 {
+  position: absolute;
+  top: 114px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1366px;
+  height: 1575px;
+}
+.rectangleDiv1 {
+  top: 0;
+  border-radius: var(--br-md);
+  background-color: var(--color-indigo-100);
+  width: 179.29px;
+  height: 60.48px;
+}
+.postYourAd {
+  position: absolute;
+  top: 20px;
+  left: 37px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  font-family: var(--font-lato);
+  color: var(--white);
+  text-align: left;
+  width: 105px;
+  height: 21px;
+}
+.postYourAds {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 179.29px;
+  height: 60.48px;
+}
+.byClickYouMustAgreeWithO {
+  position: absolute;
+  top: 0;
+  left: 23.76px;
+  display: inline-block;
+  width: 446px;
+  height: 18px;
+}
+.rectangleInput {
+  cursor: pointer;
+  position: absolute;
+  top: 2.15px;
+  left: 0;
+  border-radius: 4px;
+  background-color: var(--white);
+  border: 1px solid var(--color-gray-1600);
+  box-sizing: border-box;
+  width: 14.23px;
+  height: 14.23px;
+}
+.termsCondition {
+  position: absolute;
+  top: 0;
+  left: 5.24px;
+  width: 469.76px;
+  height: 18px;
+}
+.postYourAdButton {
+  position: absolute;
+  top: 1527px;
+  left: 78px;
+  width: 475px;
+  height: 105.48px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-1600);
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 1207.39px;
+  height: 278.19px;
+}
+.creditCardDiv {
+  position: absolute;
+  top: 106.72px;
+  left: 32px;
+  display: inline-block;
+  width: 89.65px;
+  height: 21.34px;
+}
+.ellipseInput {
+  cursor: pointer;
+  position: absolute;
+  top: 111.64px;
+  left: 0;
+  background-color: var(--white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 12px;
+  height: 12px;
+}
+.chequePaymentDiv {
+  position: absolute;
+  top: 76.13px;
+  left: 32px;
+  display: inline-block;
+  width: 133.76px;
+  height: 21.34px;
+}
+.ellipseInput1 {
+  cursor: pointer;
+  position: absolute;
+  top: 80.64px;
+  left: 0;
+  background-color: var(--white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 12px;
+  height: 12px;
+}
+.directBankTransfer {
+  position: absolute;
+  top: 44.11px;
+  left: 32px;
+  display: inline-block;
+  width: 159.37px;
+  height: 21.34px;
+}
+.ellipseInput2 {
+  cursor: pointer;
+  position: absolute;
+  top: 48.64px;
+  left: 0;
+  background-color: var(--white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 12px;
+  height: 12px;
+}
+.pleaseSelectThePreferredPa {
+  position: absolute;
+  top: 0;
+  left: 1.11px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 350.05px;
+  height: 21.34px;
+}
+.rightSideDiv {
+  position: absolute;
+  top: 100.32px;
+  left: 620.02px;
+  width: 351.16px;
+  height: 128.07px;
+}
+.span {
+  color: var(--color-black);
+}
+.premiumAdOptions,
+.regularAd0000,
+.topFeaturedAds5900,
+.urgentAds7900 {
+  position: absolute;
+  top: 106.72px;
+  left: 34px;
+  display: inline-block;
+  width: 147.99px;
+  height: 21.34px;
+}
+.premiumAdOptions,
+.regularAd0000,
+.topFeaturedAds5900 {
+  top: 76.13px;
+  width: 196.37px;
+}
+.premiumAdOptions,
+.regularAd0000 {
+  top: 44.11px;
+  width: 144.43px;
+}
+.premiumAdOptions {
+  top: 0;
+  left: 1.01px;
+  color: var(--color-black);
+  width: 167.2px;
+}
+.leftSideDiv {
+  position: absolute;
+  top: 100.32px;
+  left: 26.02px;
+  width: 230.37px;
+  height: 128.07px;
+}
+.makeYourAdFeatured1,
+.whatIsFeaturedAd {
+  position: absolute;
+  top: 28.46px;
+  left: 621.02px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  color: var(--color-gray-2100);
+  width: 197.08px;
+  height: 25.61px;
+}
+.makeYourAdFeatured1 {
+  top: 29.17px;
+  left: 27.04px;
+  width: 221.98px;
+}
+.makeYourAdFeatured {
+  position: absolute;
+  top: 1194.04px;
+  left: 78.98px;
+  width: 1207.39px;
+  height: 278.19px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-2000);
+}
+.rectangleDiv3,
+.rectangleDiv4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  width: 1207.39px;
+  height: 317.32px;
+}
+.rectangleDiv4 {
+  top: 53px;
+  left: 559.94px;
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-700);
+  width: 559.94px;
+  height: 54.07px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.yourAddressInput {
+  border: 0;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  position: absolute;
+  top: 19.43px;
+  left: 19.61px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 519px;
+  height: 21px;
+}
+.groupDiv,
+.yourAddressDiv {
+  position: absolute;
+  top: 33.57px;
+  left: 1.39px;
+  width: 559.94px;
+  height: 54.07px;
+}
+.yourAddressDiv {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 116px;
+  height: 21px;
+}
+.addressDiv,
+.addressDiv1,
+.rectangleDiv5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 561.33px;
+  height: 87.64px;
+}
+.addressDiv,
+.rectangleDiv5 {
+  left: 591.99px;
+}
+.rectangleDiv5 {
+  left: 0;
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 560.65px;
+  height: 54.07px;
+}
+.contactNumberInput {
+  border: 0;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  position: absolute;
+  top: 17.43px;
+  left: 13.99px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 530px;
+  height: 21px;
+}
+.cOntactNameDiv,
+.contactNUmber {
+  position: absolute;
+  top: 33.44px;
+  left: 0;
+  width: 560.65px;
+  height: 54.07px;
+}
+.contactNUmber {
+  top: 0;
+  display: inline-block;
+  width: 143.3px;
+  height: 21.34px;
+}
+.contactNoDiv {
+  position: absolute;
+  top: 0.13px;
+  left: 0;
+  width: 560.65px;
+  height: 87.51px;
+}
+.rectangleDiv6,
+.section2Div {
+  position: absolute;
+  top: 201.94px;
+  left: 27.04px;
+  width: 1153.32px;
+  height: 87.64px;
+}
+.rectangleDiv6 {
+  top: 87px;
+  left: 561.33px;
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 559.94px;
+  height: 54.07px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.yourEmailDiv,
+.yourEmailInput {
+  position: absolute;
+  display: inline-block;
+}
+.yourEmailInput {
+  border: 0;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  top: 53px;
+  left: 21px;
+  color: var(--color-black);
+  text-align: left;
+  width: 519px;
+  height: 21px;
+}
+.yourEmailDiv {
+  top: 0;
+  left: 0;
+  width: 86px;
+  height: 22px;
+}
+.eMailDiv,
+.selectCategoreyDiv,
+.yourNameInput {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 561.33px;
+  height: 87.8px;
+}
+.eMailDiv,
+.yourNameInput {
+  left: 591.99px;
+}
+.yourNameInput {
+  border: 0;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  top: 17.27px;
+  left: 13.99px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 530px;
+  height: 21px;
+}
+.nameDiv,
+.yourName {
+  position: absolute;
+  left: 0;
+}
+.yourName {
+  top: 0;
+  display: inline-block;
+  width: 96.34px;
+  height: 21.34px;
+}
+.nameDiv {
+  top: 0.29px;
+  width: 560.65px;
+  height: 87.51px;
+}
+.section1,
+.sellerInformationB {
+  position: absolute;
+  top: 87.94px;
+  left: 27.04px;
+  width: 1153.32px;
+  height: 87.8px;
+}
+.sellerInformationB {
+  top: 29.17px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 170.05px;
+  height: 25.61px;
+}
+.rectangleDiv8,
+.rectangleDiv9,
+.sellerInformationDiv {
+  position: absolute;
+  top: 824.06px;
+  left: 78.98px;
+  width: 1207.39px;
+  height: 317.32px;
+}
+.rectangleDiv8,
+.rectangleDiv9 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-gray-500);
+  box-sizing: border-box;
+  height: 611.88px;
+}
+.rectangleDiv9 {
+  border-radius: var(--br-sm);
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-700);
+  width: 559.23px;
+  height: 217.72px;
+}
+.maximumUploadFileSize500K {
+  position: absolute;
+  top: 161.05px;
+  left: 162px;
+  display: inline-block;
+  width: 236px;
+  height: 17px;
+}
+.selectFilesButton {
+  position: absolute;
+  top: 98px;
+  left: 190px;
+  width: 236.93px;
+  height: 61.19px;
+}
+.dropFilesAnywhereToUpload,
+.orDiv {
+  position: absolute;
+  top: 63.65px;
+  left: 271px;
+  display: inline-block;
+  width: 17.08px;
+  height: 21.34px;
+}
+.dropFilesAnywhereToUpload {
+  top: 38.05px;
+  left: 174px;
+  color: var(--color-gray-2100);
+  width: 213px;
+  height: 22px;
+}
+.selectFilesDiv {
+  position: absolute;
+  top: 34.95px;
+  left: 593px;
+  width: 559.23px;
+  height: 217.72px;
+}
+.writeDetailsAboutYourProdu {
+  border: 0;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  position: absolute;
+  top: 26.05px;
+  left: 22.99px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 515px;
+  height: 169px;
+}
+.descriptionDiv1,
+.writeDiv {
+  position: absolute;
+  top: 34.95px;
+  left: 0.01px;
+  width: 559.23px;
+  height: 217.72px;
+}
+.descriptionDiv1 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 106px;
+  height: 21px;
+}
+.descriptionDiv,
+.section3Div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 559.24px;
+  height: 252.67px;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-2100);
+}
+.section3Div {
+  top: 331.46px;
+  left: 27.02px;
+  width: 1152.23px;
+  font-size: var(--font-size-xs);
+  color: var(--color-gray-1300);
+}
+.rectangleDiv11 {
+  position: absolute;
+  top: 55px;
+  left: 185.7px;
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 185.7px;
+  height: 54.07px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.negotiableInput {
+  border: 0;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  position: absolute;
+  top: 17.14px;
+  left: 13.16px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 161px;
+  height: 21px;
+}
+.negotiableDiv,
+.priceInput {
+  position: absolute;
+  top: 33.86px;
+  left: 214.84px;
+  width: 185.7px;
+  height: 54.07px;
+}
+.priceInput {
+  border: 0;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  top: 18.14px;
+  left: 14.61px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 155px;
+  height: 21px;
+}
+.itemPriceUSD,
+.priceDiv {
+  position: absolute;
+  top: 33.86px;
+  left: 1.39px;
+  width: 185.7px;
+  height: 54.07px;
+}
+.itemPriceUSD {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 150px;
+  height: 22px;
+}
+.itemPriceDiv,
+.rectangleDiv13 {
+  position: absolute;
+  top: 0;
+  left: 592px;
+  width: 400.54px;
+  height: 87.94px;
+}
+.rectangleDiv13 {
+  left: 0;
+  background-color: var(--white);
+  border: 2px solid var(--color-gray-700);
+  box-sizing: border-box;
+  width: 187.12px;
+  height: 54.07px;
+}
+.businessDiv1 {
+  position: absolute;
+  top: 19px;
+  left: 40px;
+  display: inline-block;
+  width: 68.3px;
+  height: 21.34px;
+}
+.ellipseInput6 {
+  cursor: pointer;
+  position: absolute;
+  top: 21.34px;
+  left: 17.08px;
+  background-color: var(--white);
+  border: 1px solid var(--color-gray-1300);
+  box-sizing: border-box;
+  width: 12.1px;
+  height: 12.1px;
+}
+.businessDiv,
+.personalDiv1 {
+  position: absolute;
+  top: 33.86px;
+  left: 213.46px;
+  width: 187.12px;
+  height: 54.07px;
+}
+.personalDiv1 {
+  top: 19px;
+  left: 40px;
+  display: inline-block;
+  width: 66.88px;
+  height: 21.34px;
+}
+.personalDiv {
+  position: absolute;
+  top: 33.86px;
+  left: 0.01px;
+  width: 187.12px;
+  height: 54.07px;
+}
+.adTypeDiv,
+.adTypeDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.adTypeDiv1 {
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-2100);
+  display: inline-block;
+  width: 73px;
+  height: 22px;
+}
+.adTypeDiv {
+  width: 400.58px;
+  height: 87.94px;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+}
+.iconDown,
+.section2Div1 {
+  position: absolute;
+  top: 209.46px;
+  left: 27.02px;
+  width: 992.54px;
+  height: 87.94px;
+}
+.iconDown {
+  top: 23.48px;
+  left: 528.6px;
+  width: 11.38px;
+  height: 5.69px;
+  object-fit: cover;
+}
+.selectCategoryInput {
+  border: 0;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  position: absolute;
+  top: 18.8px;
+  left: 19.61px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 499px;
+  height: 22px;
+}
+.selectCategoreyDiv1 {
+  position: absolute;
+  top: 33.2px;
+  left: 1.39px;
+  width: 559.94px;
+  height: 54.07px;
+}
+.selectAdCategory1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 158px;
+  height: 21px;
+}
+.adTitleGoThere1,
+.selectAdCategory {
+  position: absolute;
+  top: 0;
+  left: 592px;
+  width: 561.33px;
+  height: 87.27px;
+}
+.adTitleGoThere1 {
+  border: 0;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  top: 16.8px;
+  left: 13.99px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 536px;
+  height: 24px;
+}
+.adTitleGoThere,
+.titleOfAd1 {
+  position: absolute;
+  top: 33.2px;
+  left: 0.01px;
+  width: 560.65px;
+  height: 54.07px;
+}
+.titleOfAd1 {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 92px;
+  height: 21px;
+}
+.postYourAd2,
+.section11,
+.titleOfAd {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 560.66px;
+  height: 87.27px;
+}
+.postYourAd2,
+.section11 {
+  top: 88.46px;
+  left: 27.02px;
+  width: 1153.33px;
+}
+.postYourAd2 {
+  top: 29.17px;
+  left: 27.04px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 121.66px;
+  height: 25.61px;
+}
+.postYourAd1 {
+  position: absolute;
+  top: 159.54px;
+  left: 78.98px;
+  width: 1207.39px;
+  height: 611.88px;
+}
+.bGColorDiv,
+.rectangleDiv17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-2100);
+  width: 1366px;
+  height: 114px;
+}
+.rectangleDiv17 {
+  border-radius: var(--br-md);
+  background-color: var(--color-gold-200);
+  width: 96.87px;
+  height: 41.1px;
+}
+.sellB {
+  position: absolute;
+  top: 10.27px;
+  left: 32.29px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  font-family: var(--font-lato);
+  color: var(--color-black);
+  text-align: left;
+  width: 31.64px;
+  height: 21.28px;
+}
+.registerSignIn,
+.sellButton {
+  cursor: pointer;
+  position: absolute;
+}
+.sellButton {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 676px;
+  width: 96.87px;
+  height: 41.1px;
+}
+.registerSignIn {
+  text-decoration: none;
+  top: 12px;
+  left: 499px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 137px;
+  height: 22px;
+}
+.userIcon {
+  position: absolute;
+  top: 16px;
+  left: 478px;
+  width: 13px;
+  height: 14.08px;
+  object-fit: cover;
+}
+.aboutUs1,
+.category,
+.helpSupport,
+.homeA1 {
+  text-decoration: none;
+  position: absolute;
+  top: 12px;
+  left: 318px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 120px;
+  height: 22px;
+}
+.aboutUs1,
+.category,
+.homeA1 {
+  left: 202px;
+  width: 76px;
+}
+.category,
+.homeA1 {
+  left: 88px;
+  width: 74px;
+}
+.homeA1 {
+  cursor: pointer;
+  left: 0;
+  width: 49px;
+}
+.logoA,
+.navbarDiv {
+  position: absolute;
+  top: 37px;
+  left: 542px;
+  width: 772.87px;
+  height: 41.1px;
+}
+.logoA {
+  cursor: pointer;
+  text-decoration: none;
+  top: 21px;
+  left: 69px;
+  width: 190px;
+  height: 73px;
+  background-image: url(../../public/logo@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.headerNavbarAndLogo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1366px;
+  height: 114px;
+  color: var(--white);
+}
+.sellDiv {
+  position: relative;
+  background-color: var(--white);
+  box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 2004px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-2100);
+  font-family: var(--font-lato);
+}

@@ -1,0 +1,626 @@
+.yellowBackgroundColorDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gold-100);
+  width: 1367px;
+  height: 319px;
+}
+.ellipseIcon,
+.fb1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20px;
+  height: 20px;
+}
+.fb1Icon {
+  top: 3.67px;
+  left: 3.67px;
+  width: 12.33px;
+  height: 12.33px;
+  object-fit: cover;
+}
+.fBIconDiv,
+.instgram1Icon {
+  position: absolute;
+  top: 31px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+}
+.instgram1Icon {
+  top: 4px;
+  left: 4px;
+  width: 12px;
+  height: 12px;
+  object-fit: cover;
+}
+.instgramIconDiv,
+.linkednIconDiv,
+.twitter1Icon {
+  position: absolute;
+  top: 31px;
+  left: 25.67px;
+  width: 20px;
+  height: 20px;
+}
+.linkednIconDiv,
+.twitter1Icon {
+  left: 51.33px;
+}
+.twitter1Icon {
+  top: 3.33px;
+  left: 3.33px;
+  width: 13.33px;
+  height: 13.33px;
+  object-fit: cover;
+}
+.twitterIconDiv {
+  position: absolute;
+  top: 31px;
+  left: 77px;
+  width: 20px;
+  height: 20px;
+}
+.followUsDiv,
+.howToSellFast {
+  position: absolute;
+  width: 132px;
+}
+.howToSellFast {
+  top: 0;
+  left: 0;
+  display: inline-block;
+  height: 34px;
+}
+.followUsDiv {
+  top: 60px;
+  left: 1076px;
+  height: 51px;
+  font-size: var(--font-size-base);
+}
+.howToSellFast1,
+.howToSellFast3 {
+  position: absolute;
+  top: 34px;
+  left: 0;
+  display: inline-block;
+  width: 174px;
+  height: 95px;
+}
+.howToSellFast3 {
+  top: 0;
+  font-size: var(--font-size-base);
+  width: 142px;
+  height: 34px;
+}
+.howToSellFast2 {
+  position: absolute;
+  top: 137px;
+  left: 1076px;
+  width: 174px;
+  height: 129px;
+}
+.contactUsB,
+.fAQB {
+  position: absolute;
+  top: 103px;
+  left: 0;
+  display: inline-block;
+  width: 74px;
+  height: 26px;
+}
+.fAQB {
+  top: 80px;
+  width: 32px;
+}
+.membership {
+  top: 57px;
+  width: 85px;
+  height: 26px;
+}
+.homeA,
+.howToSellFast5,
+.membership {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.homeA {
+  cursor: pointer;
+  text-decoration: none;
+  top: 34px;
+  font-weight: 700;
+  color: inherit;
+  width: 43px;
+  height: 26px;
+}
+.howToSellFast5 {
+  top: 0;
+  font-size: var(--font-size-base);
+  width: 141px;
+  height: 34px;
+}
+.howToSellFast4 {
+  position: absolute;
+  top: 137px;
+  left: 739px;
+  width: 141px;
+  height: 129px;
+}
+.aboutUs,
+.categoryB,
+.helpSupportB,
+.homeA1 {
+  position: absolute;
+  top: 103px;
+  left: 0;
+  display: inline-block;
+  width: 92px;
+  height: 26px;
+}
+.aboutUs,
+.categoryB,
+.homeA1 {
+  top: 80px;
+  width: 63px;
+}
+.categoryB,
+.homeA1 {
+  top: 57px;
+}
+.homeA1 {
+  cursor: pointer;
+  text-decoration: none;
+  top: 34px;
+  font-weight: 700;
+  color: inherit;
+  width: 41px;
+}
+.quickLinksB,
+.quickLinksDiv {
+  position: absolute;
+  width: 105px;
+}
+.quickLinksB {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  height: 34px;
+}
+.quickLinksDiv {
+  top: 137px;
+  left: 437px;
+  height: 129px;
+}
+.aboutClassified,
+.classifiedBlog,
+.contactUsB1,
+.tipsAndHelp {
+  position: absolute;
+  top: 103px;
+  left: 0;
+  display: inline-block;
+  width: 75px;
+  height: 26px;
+}
+.aboutClassified,
+.classifiedBlog,
+.tipsAndHelp {
+  top: 57px;
+  width: 98px;
+}
+.aboutClassified,
+.tipsAndHelp {
+  top: 34px;
+  width: 110px;
+}
+.tipsAndHelp {
+  top: 0;
+  font-size: var(--font-size-base);
+  width: 121px;
+  height: 34px;
+}
+.footerLogoIcon,
+.tipsHelpLists {
+  position: absolute;
+  top: 137px;
+  left: 117px;
+  width: 121px;
+  height: 129px;
+}
+.footerLogoIcon {
+  top: 54px;
+  width: 164px;
+  height: 64px;
+  object-fit: cover;
+}
+.footerDiv {
+  position: absolute;
+  top: 1042px;
+  left: -1px;
+  width: 1367px;
+  height: 319px;
+}
+.rectangleDiv,
+.rectangleDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 1366px;
+  height: 928px;
+}
+.rectangleDiv1 {
+  background-color: var(--white);
+  border: 1px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 1238.65px;
+  height: 793.28px;
+}
+.newToCompanyCreateAnAcco {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 713.59px;
+  left: 715.73px;
+  color: inherit;
+  display: inline-block;
+  width: 343.63px;
+  height: 25.61px;
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-gray-1300);
+  box-sizing: border-box;
+  width: 643.87px;
+  height: 70.43px;
+}
+.requestOTPDiv {
+  position: absolute;
+  top: 22.77px;
+  left: 257.55px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-lato);
+  color: var(--color-gray-1300);
+  text-align: left;
+  display: inline-block;
+  width: 123.79px;
+  height: 25.61px;
+}
+.oTPButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 488.77px;
+  left: 553.51px;
+  width: 643.87px;
+  height: 70.43px;
+}
+.oRDiv {
+  position: absolute;
+  top: 436.84px;
+  left: 859.44px;
+  color: var(--color-gray-1300);
+  display: inline-block;
+  width: 30.59px;
+  height: 25.61px;
+}
+.rectangleDiv3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-gold-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 643.87px;
+  height: 70.43px;
+}
+.loginDiv2 {
+  position: absolute;
+  top: 22.77px;
+  left: 296.68px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-lato);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 50.51px;
+  height: 25.61px;
+}
+.loginButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 340.08px;
+  left: 553.51px;
+  width: 643.87px;
+  height: 70.43px;
+}
+.termsOfUse {
+  color: var(--color-black);
+}
+.byContinuingYouAgreeToCo {
+  position: absolute;
+  top: 304.08px;
+  left: 556.66px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  width: 549px;
+  height: 17px;
+  color: var(--color-gray-1300);
+}
+.lineIcon {
+  position: absolute;
+  top: 45.14px;
+  left: 0.43px;
+  width: 524px;
+  height: 2.42px;
+}
+.enterPasswordInput,
+.forgotA {
+  display: inline-block;
+  position: absolute;
+  top: 0;
+}
+.forgotA {
+  cursor: pointer;
+  text-decoration: none;
+  left: 530px;
+  color: inherit;
+  width: 71.15px;
+  height: 25.61px;
+}
+.enterPasswordInput {
+  border: 0;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  left: 0;
+  font-weight: 700;
+  color: var(--color-black);
+  text-align: left;
+  width: 540px;
+  height: 26px;
+}
+.enterPasswordDiv,
+.lineIcon1 {
+  position: absolute;
+  top: 222.08px;
+  left: 551.66px;
+  width: 645.72px;
+  height: 47.56px;
+}
+.lineIcon1 {
+  top: 43.07px;
+  left: -44px;
+  width: 700px;
+  height: 2.54px;
+}
+.enterEmailMobileNumber {
+  border: 0;
+  display: inline-block;
+  font-family: var(--font-lato);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 7.57px;
+  font-weight: 700;
+  color: var(--color-black);
+  text-align: left;
+  width: 623px;
+  height: 26px;
+}
+.nameMobileNoDiv {
+  position: absolute;
+  top: 96.08px;
+  left: 551.09px;
+  width: 700px;
+  height: 45.62px;
+}
+.rectangleDiv4,
+.rightSideDiv {
+  position: absolute;
+  top: 56.92px;
+  left: 58.34px;
+  width: 1251.09px;
+  height: 793.28px;
+}
+.rectangleDiv4 {
+  top: 0;
+  left: 14.94px;
+  background-color: var(--color-gray-2100);
+  width: 500.16px;
+}
+.plainShoppingBagPNGClipartIcon {
+  position: absolute;
+  top: 475.25px;
+  left: 0;
+  width: 530.75px;
+  height: 345.06px;
+  object-fit: cover;
+}
+.getAccessTo {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.wishlistRecommendations {
+  margin: 0;
+}
+.getAccessToYourOrdersWis,
+.loginB {
+  position: absolute;
+  top: 149.41px;
+  left: 60.47px;
+  display: inline-block;
+  width: 366.4px;
+  height: 68.3px;
+}
+.loginB {
+  top: 67.08px;
+  left: 60.6px;
+  font-size: var(--font-size-xl);
+  color: var(--white);
+  width: 132px;
+  height: 51px;
+}
+.leftSideDiv,
+.loginDiv1 {
+  position: absolute;
+  top: 56.92px;
+  left: 43.4px;
+  width: 530.75px;
+  height: 820.31px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-1000);
+}
+.loginDiv1 {
+  top: 114px;
+  left: 0;
+  width: 1366px;
+  height: 928px;
+  font-size: var(--font-size-base);
+  color: var(--color-indigo-300);
+}
+.bGColorDiv,
+.rectangleDiv5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-2100);
+  width: 1366px;
+  height: 114px;
+}
+.rectangleDiv5 {
+  border-radius: var(--br-md);
+  background-color: var(--color-gold-200);
+  width: 96.87px;
+  height: 41.1px;
+}
+.sellB {
+  position: absolute;
+  top: 10.27px;
+  left: 32.29px;
+  font-size: var(--font-size-sm);
+  display: inline-block;
+  font-family: var(--font-lato);
+  color: var(--color-black);
+  text-align: left;
+  width: 31.64px;
+  height: 21.28px;
+}
+.registerSignIn,
+.sellButton {
+  cursor: pointer;
+  position: absolute;
+}
+.sellButton {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 676px;
+  width: 96.87px;
+  height: 41.1px;
+}
+.registerSignIn {
+  text-decoration: none;
+  top: 12px;
+  left: 499px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 137px;
+  height: 22px;
+}
+.userIcon {
+  position: absolute;
+  top: 16px;
+  left: 478px;
+  width: 13px;
+  height: 14.08px;
+  object-fit: cover;
+}
+.aboutUs1,
+.category,
+.helpSupport,
+.homeA2 {
+  text-decoration: none;
+  position: absolute;
+  top: 12px;
+  left: 318px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 120px;
+  height: 22px;
+}
+.aboutUs1,
+.category,
+.homeA2 {
+  left: 202px;
+  width: 76px;
+}
+.category,
+.homeA2 {
+  left: 88px;
+  width: 74px;
+}
+.homeA2 {
+  cursor: pointer;
+  left: 0;
+  width: 49px;
+}
+.logoA,
+.navbarDiv {
+  position: absolute;
+  top: 37px;
+  left: 542px;
+  width: 772.87px;
+  height: 41.1px;
+}
+.logoA {
+  cursor: pointer;
+  text-decoration: none;
+  top: 21px;
+  left: 69px;
+  width: 190px;
+  height: 73px;
+  background-image: url(../../public/logo@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.headerNavbarAndLogo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1366px;
+  height: 114px;
+  font-size: var(--font-size-sm);
+  color: var(--white);
+}
+.loginDiv {
+  position: relative;
+  background-color: var(--white);
+  box-shadow: 5px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 1361px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-gray-2100);
+  font-family: var(--font-lato);
+}

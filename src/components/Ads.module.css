@@ -1,0 +1,100 @@
+.rectangleIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  width: 308.22px;
+  height: 271.32px;
+}
+.b,
+.dellLaptopsI54thGen,
+.mPNagarZone2Bhopal,
+.nov22Div {
+  position: absolute;
+  top: 63.67px;
+  left: 249.61px;
+  display: inline-block;
+  width: 32.56px;
+  height: 12.3px;
+}
+.b,
+.dellLaptopsI54thGen,
+.mPNagarZone2Bhopal {
+  left: 0;
+  width: 114.32px;
+}
+.b,
+.dellLaptopsI54thGen {
+  top: 29.25px;
+  left: 0.3px;
+  font-size: var(--font-size-3xs);
+  color: var(--color-gray-1500);
+  width: 147px;
+  height: 21px;
+}
+.b {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-2100);
+  width: 104.19px;
+  height: 26.05px;
+}
+.priceAndAddressDate {
+  position: absolute;
+  top: 185.22px;
+  left: 18.09px;
+  width: 282.17px;
+  height: 75.97px;
+}
+.heartIcon1,
+.rectangleIcon1 {
+  position: absolute;
+  top: 6.51px;
+  left: 7.24px;
+  width: 293.75px;
+  height: 164.96px;
+  object-fit: cover;
+}
+.heartIcon1 {
+  top: 4.34px;
+  left: 259.74px;
+  width: 41.96px;
+  height: 41.96px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gold-200);
+  width: 65.84px;
+  height: 20.26px;
+}
+.featuredDiv {
+  position: absolute;
+  top: 2px;
+  left: 9px;
+  display: inline-block;
+  width: 47px;
+  height: 16px;
+}
+.div,
+.featureDiv {
+  position: absolute;
+  top: 6.47px;
+  left: 7.38px;
+  width: 65.84px;
+  height: 20.26px;
+  font-size: var(--font-size-4xs);
+  color: var(--color-black);
+}
+.div {
+  top: 0;
+  left: 0;
+  width: 308.22px;
+  height: 271.32px;
+  text-align: left;
+  font-size: var(--font-size-5xs);
+  color: var(--color-gray-1400);
+  font-family: var(--font-lato);
+}

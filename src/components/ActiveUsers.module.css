@@ -1,0 +1,65 @@
+.rectangleButton,
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0.5px;
+  background-color: var(--color-teal-100);
+  width: 240.04px;
+  height: 147.74px;
+}
+.rectangleButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-teal-200);
+  top: 115.52px;
+  left: 0;
+  height: 32.22px;
+}
+.moreInfoDiv {
+  position: absolute;
+  top: 122.7px;
+  left: 89.5px;
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  display: inline-block;
+  width: 61.7px;
+  height: 23.58px;
+}
+.iconUser {
+  position: absolute;
+  top: 19.65px;
+  left: 164.04px;
+  width: 59.44px;
+  height: 62.08px;
+  object-fit: cover;
+}
+.activeUsersDiv,
+.b {
+  position: absolute;
+  top: 10.7px;
+  left: 22.5px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  display: inline-block;
+  width: 67px;
+  height: 59px;
+}
+.activeUsersDiv {
+  top: 78.7px;
+  font-size: var(--font-size-xs);
+  width: 94px;
+  height: 24px;
+}
+.aCTIVEUSERSDiv {
+  position: absolute;
+  top: 73px;
+  left: 0;
+  width: 240.53px;
+  height: 147.74px;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--white);
+  font-family: var(--font-lato);
+}
